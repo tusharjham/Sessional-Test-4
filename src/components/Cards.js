@@ -12,13 +12,11 @@ function Cards() {
             <CardItem
               src="images/img-1.jpg"
               text="Travel to vencie to see early sunrise"
-              label="Adventure"
               path="/services"
             />
             <CardItem
               src="images/img-2.jpg"
               text="Trek the highest mountain peaks in world"
-              label="Luxury"
               path="/services"
             />
           </ul>
@@ -26,19 +24,16 @@ function Cards() {
             <CardItem
               src="images/img-3.jpg"
               text="Walk through the streets of Rome"
-              label="Mystery"
               path="/services"
             />
             <CardItem
               src="images/img-7.jpg"
-              text="Experience Football on Top of the Himilayan Mountains"
-              label="Adventure"
+              text="Explore the night in Amsterdam"
               path="/products"
             />
             <CardItem
               src="images/img-8.jpg"
-              text="Explore the night in Amsterdam"
-              label="Adrenaline"
+              text="Reach safely and with cheapest fare to your destination"
               path="/sign-up"
             />
           </ul>
